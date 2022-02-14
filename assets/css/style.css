@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar{
+    position: absolute;
+    top: 0px; left: 0px;
+}
+
+.card-img-top{
+    height: 150px;
+}
+
+.bg-cian{
+    background-color: #0dcaf0;
+}
